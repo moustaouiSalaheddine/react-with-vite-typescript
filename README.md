@@ -8,7 +8,7 @@
 
 ### create peoject with
 
-`npm create vite@latest react-app` or `npm create vite@latest my-vue-app -- --template react`
+`npm create vite@latest react-app` or `npm create vite@latest react-app -- --template react-ts`
 
 > choose `React`
 
